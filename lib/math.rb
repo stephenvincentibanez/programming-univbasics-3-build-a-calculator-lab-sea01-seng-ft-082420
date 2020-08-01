@@ -38,4 +38,4 @@ root = sqrt(num)
 puts root
 root
 end
-square_root
+square_root(81)
