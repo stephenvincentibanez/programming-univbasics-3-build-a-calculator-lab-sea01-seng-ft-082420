@@ -34,7 +34,7 @@ end
 modulo(34, 5)
 
 def square_root(num)
-root = sqrt(num)
+root = Math.sqrt(num)
 puts root
 root
 end
