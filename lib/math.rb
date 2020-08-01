@@ -34,8 +34,8 @@ end
 modulo(34, 5)
 
 def square_root(num)
-root = sqrt(num)
-puts root
-root
+square_root = sqrt(num)
+puts square_rootroot
+square_root
 end
 square_root(81)
