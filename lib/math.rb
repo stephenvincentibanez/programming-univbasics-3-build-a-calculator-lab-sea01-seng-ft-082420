@@ -19,12 +19,12 @@ def division(num1, num2)
 end
 division(50, 2)
 
-def multiplacation(num1, num2)
+def multiplication(num1, num2)
   product = num1 * num2
   puts product
   product
 end
-multiplacation(4, 30)
+multiplication(4, 30)
 
 def modulo(num1, num2)
 
