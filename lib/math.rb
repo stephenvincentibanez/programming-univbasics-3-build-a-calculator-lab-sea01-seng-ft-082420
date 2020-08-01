@@ -24,7 +24,7 @@ def multiplacation(num1, num2)
   puts product
   product
 end
-multiplaction(4, 30)
+multiplacation(4, 30)
 
 def modulo(num1, num2)
 
