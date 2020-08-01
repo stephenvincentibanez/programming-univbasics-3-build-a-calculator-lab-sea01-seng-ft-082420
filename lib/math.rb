@@ -14,8 +14,10 @@ subtraction(10, 5)
 
 def division(num1, num2)
   quotient = num1 / num2
-
+  puts quotient
+  quotient
 end
+division(50, 2)
 
 def multiplication(num1, num2)
 
